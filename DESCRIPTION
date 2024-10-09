@@ -15,3 +15,5 @@ Suggests:
     knitr,
     rmarkdown
 VignetteBuilder: knitr
+URL: https://github.com/Samoney2005/SCOOK2024
+BugReports: https://github.com/Samoney2005/SCOOK2024/issues
