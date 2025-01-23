@@ -1,4 +1,4 @@
-# Math 4753
+# MATH 4753
 Applied Statistical Methods
 
 ## Overview
